@@ -1,0 +1,173 @@
+
+body{
+    font-family: "Oswald", sans-serif;
+}
+.nav1 ul li{
+    padding-left: 20px;
+    font-size: 20px;
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.carousel-item img{
+    width:400px;
+    margin-left: 450px;
+    margin-top: 100px;
+
+}
+/****************************************/
+.backg img{
+    width:100%;
+    height:500px;
+
+}
+
+.item img{
+    width:180px;
+}
+.sliderr{
+
+}
+/*****SLIDER**********/
+
+.sliderr h3{
+    font-weight: bolder;
+    margin-top:150px;
+    font-size: 40px;
+    color: #6f6969;
+    font-family:  "Oswald", sans-serif;;
+
+
+}
+/********SWIPER*********/
+.swiper-wrapper {
+
+    height: 350px;
+
+}
+.swiperr{
+    margin-left: 20px;
+    background-color: #f6f2f2;
+}
+.swiperr img{
+    margin-top: 30px;
+}
+.swiperr h3{
+    padding-top: 20px;
+    font-weight: bolder;
+    margin-top:150px;
+    font-size: 40px;
+    color: #6f6969;
+    font-family:  "Oswald", sans-serif;;
+
+}
+
+.swiperr h2{
+
+    font-weight: bolder;
+    font-family:  "Oswald", sans-serif;;
+
+}
+/*******Footer**********/
+.foot{
+    padding-top: 30px;
+    padding-left: 40px;
+    margin-top: 300px;
+    background-color: rgba(177, 173, 173, 0.8);
+    height: 320px;
+}
+.foot .spans{
+
+   margin-left: 690px;
+    margin-bottom: 20px;
+}
+.foot span{
+    padding-right: 20px;
+
+}
+.foot .row a{
+    font-size: 20px;
+}
+.foot.col-12 h4{
+
+
+}
+.foot.col-4 a{
+    padding-left: 100px;
+}
+
+    /*********Forms***********/
+.col-4 h2{
+    font-size: 40px;
+
+}
+form{
+    font-size: 20px;
+}
+.contactForm form{
+    width:80%;
+    height: 100px;
+}
+.contactForm select{
+    width:100%;
+
+}
+ .btn1{
+    width:200px;
+}
+ /********ABOUT SECTION ***********/
+ .about_content .left img{
+     width:700px
+ }
+.about_content .right{
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+.about_content .right p{
+    font-size: 18px;
+
+}
+.about_content{
+    margin-top: 50px;
+
+
+}
+
+/**********Products Page***********/
+.product{
+    margin-top: 50px;
+}
+.product.row{
+}
+
+.products img {
+    width:250px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    border: solid;
+}
+
+.products h4{
+    font-size: 25px;
+    margin-left: 90px;
+}
+
+.products h3{
+    font-size: 20px;
+
+}
+
+
+.products p{
+
+    font-size: 20px;
+}
+
+.products button{
+    width:100px;
+    height: 40px;
+    margin-left:70px;
+}
